@@ -23,3 +23,7 @@
 	5.Power of 2
 	6.Sparse or not
 	7.Toggle bits given range
+	8.Swap all odd bits and even bits
+	9.Longest consequtive 1's
+
+### Dynamic 
