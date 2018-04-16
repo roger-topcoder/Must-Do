@@ -13,6 +13,10 @@
   	10.Reverse an Array in Groups
   	11.sort an Array
   	12.Subarray with given Sum
+  	13.Largest Number formed from an Array
+  	14.Trapping Rainwater
+  	15.Choclate Distribution Problem 
+  	16.Element with left side smaller and right side greater
   	
 
 ### Bit Magic
