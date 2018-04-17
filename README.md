@@ -17,6 +17,7 @@
   	14.Trapping Rainwater
   	15.Choclate Distribution Problem 
   	16.Element with left side smaller and right side greater
+  	17.Array In zigzag fashion 
   	
 
 ### Bit Magic
@@ -29,5 +30,11 @@
 	7.Toggle bits given range
 	8.Swap all odd bits and even bits
 	9.Longest consequtive 1's
+	10.Set kth bit
 
 ### Dynamic 
+	1.Longest Increasing Subsequence
+
+
+### String 
+	1.reverse words in a string
